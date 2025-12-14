@@ -10,7 +10,11 @@ body {
     justify-content: center;
     align-items: center;
     padding: 20px;
-    background: url('/img/orig.jpg') center/cover no-repeat; 
+
+}
+
+body {
+    background: url('/img/orig.jpg'); 
     background-size: cover;
 }
 

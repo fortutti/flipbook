@@ -13,7 +13,9 @@ body {
 }
 
 body {
-    background: url('/img/orig.jpg'); 
+    width: 100%;
+    height: 100vh;
+    background-image: url(img/orig.jpg);
     background-size: cover;
 }
 
